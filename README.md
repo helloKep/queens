@@ -39,3 +39,17 @@ The takeaway is that when using ASP, we don't explicitly write out steps for the
 Of course, this can be used to solve the daily puzzle on LinkedIn -- but it might be more fun if you try it out yourself first!
 
 Enjoy playing 👑
+
+---
+
+ℹ️ To get started with clingo, follow the steps at [potassco.org](https://potassco.org/doc/start/).
+
+Clone this repo with 
+```
+git clone https://github.com/helloKep/queens.git
+``` 
+
+and in your terminal, call
+```
+clingo queens.lp no77.lp
+```
