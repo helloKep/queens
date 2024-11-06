@@ -36,4 +36,4 @@ Brief explanations:
 There are countless other ways to use ASP to solve this problem; some may include slight variations on the above; others may be vastly different.
 The takeaway is that when using ASP, we don't explicitly write out steps for the program to follow, but rather a specification of the problem, particularly the constraints that we'd like to enforce.
 
-Of course, this can be used to solve the puzzle -- but it might be more fun if you try it out yourself first! Enjoy playing 👑
+Of course, this can be used to solve the daily puzzle on LinkedIn -- but it might be more fun if you try it out yourself first! Enjoy playing 👑
